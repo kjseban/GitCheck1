@@ -1,1 +1,1 @@
-# GitCheck1
+I am doing change in C file 
